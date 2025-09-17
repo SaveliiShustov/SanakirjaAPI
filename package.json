@@ -1,0 +1,19 @@
+{
+  "name": "sanakirjaapi",
+  "version": "1.0.0",
+  "description": "Tehtävä_1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaveliiShustov/SanakirjaAPI.git"
+  },
+  "author": "Savelii Shustov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaveliiShustov/SanakirjaAPI/issues"
+  },
+  "homepage": "https://github.com/SaveliiShustov/SanakirjaAPI#readme"
+}
