@@ -4,7 +4,9 @@
   "description": "Tehtävä_1",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/SaveliiShustov/SanakirjaAPI/issues"
   },
-  "homepage": "https://github.com/SaveliiShustov/SanakirjaAPI#readme"
+  "homepage": "https://github.com/SaveliiShustov/SanakirjaAPI#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }

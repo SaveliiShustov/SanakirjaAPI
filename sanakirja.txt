@@ -1,0 +1,5 @@
+auto car
+ovi door
+kahvi coffee
+kuppi cup
+pyörä bike
